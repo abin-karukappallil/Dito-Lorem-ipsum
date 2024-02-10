@@ -11,5 +11,5 @@ Dito is a simple yet powerful random text generator that allows you to create di
 - Choose from various predefined templates.
 - Easy-to-use command-line interface.
 
-<h3><a href="https://textgen.abinthomas.dev">Dito</a></h3 ->> textgen.abinthomas.dev
+<h3><a href="https://textgen.abinthomas.dev">Dito</a></h3> https://textgen.abinthomas.dev
 
